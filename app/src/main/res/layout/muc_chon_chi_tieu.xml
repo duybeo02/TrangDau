@@ -11,7 +11,7 @@
         android:text=" Phân loại chi tiêu mới"
         android:textColor="#ffffff"
         android:textSize="30dp"
-        ></TextView>
+        />
 
     <Button
         android:layout_width="match_parent"
@@ -22,7 +22,7 @@
         android:text="Ăn uống"
         android:textColor="@color/black"
         android:textSize="20"
-        ></Button>
+        />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
