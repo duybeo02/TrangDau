@@ -32,15 +32,17 @@
             android:ems="15"
             android:layout_marginBottom="10dp"
             android:inputType="textPassword"/>
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Quên mật khẩu"
-            android:textColor="#000"
-            android:textSize="15dp"
             android:layout_gravity="right"
             android:layout_marginRight="25dp"
-            android:layout_marginBottom="20dp"/>
+            android:layout_marginBottom="20dp"
+            android:text="Quên mật khẩu?"
+            android:textColor="#000"
+            android:textSize="15dp"
+            tools:ignore="TextSizeCheck" />
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
